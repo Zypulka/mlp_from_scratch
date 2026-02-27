@@ -8,7 +8,6 @@ No ready-made neural network libraries are used — everything MLP-related is im
 - **MLP architecture**
   - configurable number of layers / neurons
   - weights + biases
-- **Forward pass**
 - **Training (backpropagation)**
   - full-batch and mini-batch updates
 - **Optimizers**
@@ -29,4 +28,5 @@ No ready-made neural network libraries are used — everything MLP-related is im
 - `03_mlp_adam_rmsprop.ipynb` — Adam vs RMSProp comparison  
 - `04_mlp_softmax.ipynb` — classification with softmax  
 - `05_mlp_activations.ipynb` — activation functions comparison  
+
 - `06_mlp_regularization.ipynb` — regularization + early stopping (overfitting)
